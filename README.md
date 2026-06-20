@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Shamaa 👋
 
-<!--
-**shamaa007/shamaa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+## Interests
+- Embedded Systems
+- Robotics
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Embedded Systems
+- Robotics
+- C++ programming
+
+ ## Connect With Me
+- Email :shamaa0903@gmail.com
+ 
