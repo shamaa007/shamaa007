@@ -10,7 +10,7 @@
 ## Currently Learning
 - Embedded Systems
 - C++ programming
-- python programming 
+
 
  ## Connect With Me
 - Email :shamaa0903@gmail.com
