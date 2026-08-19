@@ -1,6 +1,6 @@
 ## Hi there, I'm Shamaa 👋
 
-🎓 Electronics and Communication Engineering Student
+🎓 Electronics and Communication Engineering Student at UVCE
 
 ## Interests
 - Embedded Systems
