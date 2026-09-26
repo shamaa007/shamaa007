@@ -5,7 +5,7 @@
 ## Interests
 - Embedded Systems
 - Robotics
-- Machine Learning
+  
 
 ## Currently Learning
 - Embedded Systems
